@@ -6,7 +6,7 @@ I am an Air Force veteran with a background in Information Security, and I have 
 
 Join me as I explore the intersection of security and the cloud.
 
-Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
