@@ -2,7 +2,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-I am an Air Force veteran with a background in Information Security,and I have started my journey in cloud computing, design and research. 
+I am an Air Force veteran with a background in Information Security, and I have started my journey in cloud computing, design and research. 
 
 Join me as I explore the intersection of security and the cloud.
 
